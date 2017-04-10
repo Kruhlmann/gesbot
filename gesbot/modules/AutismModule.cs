@@ -23,7 +23,7 @@ namespace gesbot.modules
             if (command != "!autism") return null;
             if (!isEnabled()) return $"Sorry {speaker} this command is currently disabled.";
             int rnd = new Random().Next(1, 100);
-            return $"{speaker} you are {rnd}% autistic {GetEmoteFromNumber(rnd)}";
+            return (arguments.Length < 1) ? $"{speaker} you are {rnd}% autistic {GetEmoteFromNumber(rnd)}" : $"{arguments[0]} is {rnd}% autistic {GetEmoteFromNumber(rnd)}";
         }
 
         public override string ToString()
