@@ -1,0 +1,9 @@
+c:\users\pc1.0\documents\visual studio 2015\Projects\gesbot\gesbot\bin\Debug\gesbot.exe.config
+c:\users\pc1.0\documents\visual studio 2015\Projects\gesbot\gesbot\obj\Debug\gesbot.csprojResolveAssemblyReference.cache
+c:\users\pc1.0\documents\visual studio 2015\Projects\gesbot\gesbot\obj\Debug\gesbot.Properties.Resources.resources
+c:\users\pc1.0\documents\visual studio 2015\Projects\gesbot\gesbot\obj\Debug\gesbot.csproj.GenerateResource.Cache
+c:\users\pc1.0\documents\visual studio 2015\Projects\gesbot\gesbot\bin\Debug\gesbot.exe
+c:\users\pc1.0\documents\visual studio 2015\Projects\gesbot\gesbot\bin\Debug\gesbot.pdb
+c:\users\pc1.0\documents\visual studio 2015\Projects\gesbot\gesbot\obj\Debug\gesbot.exe
+c:\users\pc1.0\documents\visual studio 2015\Projects\gesbot\gesbot\obj\Debug\gesbot.pdb
+C:\Users\pc1.0\Documents\Visual Studio 2015\Projects\gesbot\gesbot\obj\Debug\gesbot.MainForm.resources
